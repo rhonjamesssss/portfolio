@@ -47,7 +47,7 @@ body {
     color: #f39c12;
 }
 
-#home {
+#about-me {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -162,7 +162,7 @@ section {
         padding: 10px 0;
     }
 
-    #home {
+    #about-me {
         flex-direction: column;
         text-align: center;
         padding: 40px;
