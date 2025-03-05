@@ -47,12 +47,12 @@ body {
     color: #f39c12;
 }
 
-#about-me {
+#home {
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 80px;
-    min-height: 70vh;
+    min-height: 95vh;
     background: white;
     flex-wrap: wrap;
     text-align: left;
@@ -162,7 +162,7 @@ section {
         padding: 10px 0;
     }
 
-    #about-me {
+    #home {
         flex-direction: column;
         text-align: center;
         padding: 40px;
